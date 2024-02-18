@@ -21,7 +21,7 @@ const Headline = () => {
           <div className="headline-texts">
             <p>Hi, my name is</p>
             <p>Najeeb Uddin</p>
-            <p>I specialize in crafting web-based solutions.</p>
+            <p>Crafting Excellence!.</p>
             <p>I’m a software engineer specializing in building exceptional digital experiences. Currently, I’m looking for a full-stack position. Feel free to check my resume. <a href={resume} download="" rel="noreferrer">Download resume</a></p>
             <button onClick={toggleClass}>Contact me</button>
           </div>
