@@ -60,6 +60,7 @@
 
   .about-information p {
     min-width: 20rem;
+    font-size: larger;
   }
 
   .about-information ul {
