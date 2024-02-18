@@ -24,7 +24,7 @@ const Skills = () => {
           <div className="about-title">
             <FaLocationArrow className="arrow-icon" />
             <span>Skills</span>
-            <p className="microverse-date">Those are my stacks</p>
+            <p className="microverse-date">These are my stacks</p>
           </div>
           <div className="skills-box">
             <ul>
