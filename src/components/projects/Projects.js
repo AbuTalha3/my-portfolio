@@ -77,7 +77,7 @@ const Projects = () => {
         <div className="projects-flex-column">
           <div className="about-title" data-aos="fade-up">
             <FaLocationArrow className="arrow-icon" />
-            <span>Projects</span>
+            <span>PROJECTS</span>
             <p className="microverse-date">GitHub - Pinned Projects</p>
           </div>
           <div className="main-projects">

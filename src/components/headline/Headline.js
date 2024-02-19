@@ -23,7 +23,7 @@ const Headline = () => {
             <p>Najeeb Uddin</p>
             <p>Crafting Excellence!.</p>
             <p>I’m a software engineer specializing in building exceptional digital experiences. Currently, I’m looking for a full-stack position. Feel free to check my resume. <a href={resume} download="" rel="noreferrer">Download resume</a></p>
-            <button onClick={toggleClass}>Contact me</button>
+            <button onClick={toggleClass}>CONTACT ME</button>
           </div>
         </div>
 

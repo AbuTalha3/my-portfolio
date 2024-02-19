@@ -95,7 +95,7 @@ const Testimonials = () => {
         <div className="testimonials-information" data-aos="fade-up">
           <div className="testimonials-title">
             <FaLocationArrow className="arrow-icon" />
-            <span>Testimonials</span>
+            <span>TESTIMONIALS</span>
             <p className="microverse-date">What people say about me</p>
           </div>
         </div>

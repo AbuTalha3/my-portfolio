@@ -10,10 +10,10 @@ const Contact = () => {
           <div className="contact-information" data-aos="fade-right">
             <div className="about-title">
               <FaLocationArrow className="arrow-icon" />
-              <span>Get In Touch</span>
+              <span>GET IN TOUCH</span>
             </div>
             <p>If you want to work together on a project or just have a chat, please don't hesitate to contact me via email below.</p>
-            <a class="email-link" href="mailto:najeebakhun@gmail.com" target="_blank" rel="noreferrer">Say Hello</a>
+            <a class="email-link" href="mailto:najeebakhun@gmail.com" target="_blank" rel="noreferrer">SEND EMAIL</a>
             <div className="contact-info-phone">
             <FaPhone />
             <a href="https://api.whatsapp.com/send?phone=923355801403" className="contact-info-phone" target="_blank" rel="noreferrer">  +923355801403</a>

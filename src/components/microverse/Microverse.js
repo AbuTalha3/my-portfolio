@@ -10,7 +10,7 @@ const Microverse = () => {
         <div className="microverse-information" data-aos="fade-right">
           <div className="microverse-title">
             <FaLocationArrow className="arrow-icon" />
-            <span>Education</span>
+            <span>EDUCATION</span>
             <p className="microverse-date">Microverseinc - 2023/2024</p>
           </div>
           <p className="microverse-description">Spent 1500+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with <a href="https://en.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank" rel="noreferrer">Ruby</a>, <a href="https://en.wikipedia.org/wiki/Ruby_on_Rails" target="_blank" rel="noreferrer">Rails</a>, <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank" rel="noreferrer">React</a>, and <a href="https://en.wikipedia.org/wiki/Redux_(JavaScript_library)" target="_blank" rel="noreferrer">Redux</a>.</p>

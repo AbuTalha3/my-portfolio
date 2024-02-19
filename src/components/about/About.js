@@ -9,7 +9,7 @@ const About = () => {
           <div className="about-information" data-aos="fade-right">
             <div className="about-title">
               <FaLocationArrow className="arrow-icon" />
-              <span>About</span>
+              <span>ABOUT</span>
               <p className="microverse-date">Get to know me better!</p>
             </div>
             <p>My interest in web development started back in 2023 when I was working for a resort cum summer camp project Even though I had no idea back then on how it worked, those were my first interaction with magic of coding!</p>

@@ -26,11 +26,11 @@ const Navigation = () => {
 
         <ul className={isHamburgerActive ? 'navigation-list on' : 'navigation-list'}>
           <li onClick={toggleClass}><a href="#headline">Home</a></li>
-          <li onClick={toggleClass}><a href="#about">About</a></li>
-          <li onClick={toggleClass}><a href="#projects">Projects</a></li>
-          <li onClick={toggleClass}><a href="#skills">Tech-Stack</a></li>
-          <li onClick={toggleClass}><a href="#testimonials">Testimonials</a></li>
-          <li onClick={toggleClass}><a href="#contact">Contact</a></li>
+          <li onClick={toggleClass}><a href="#about">ABOUT</a></li>
+          <li onClick={toggleClass}><a href="#projects">PROJECTS</a></li>
+          <li onClick={toggleClass}><a href="#skills">TECH STACK</a></li>
+          <li onClick={toggleClass}><a href="#testimonials">TESTIMONIALS</a></li>
+          <li onClick={toggleClass}><a href="#contact">CONTACT</a></li>
         </ul>
 
         <div onClick={toggleClass} className={isHamburgerActive ? 'hamburger-menu on' : 'hamburger-menu'}>
