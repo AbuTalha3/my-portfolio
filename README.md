@@ -195,14 +195,6 @@ sh
 <!-- - Twitter: [@twitterhandle](https://twitter.com/twitterhandle) -->
 - LinkedIn: [AbuTalha](https://www.linkedin.com/in/abu-talha-8203b252/)
 
-<!-- 👤 *Author2*
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
 <!-- FUTURE FEATURES -->
 
 <!-- ## 🔭 Future Features <a name="future-features"></a>
@@ -241,7 +233,7 @@ If you like this project you can contact me for any of your coding dreams.
 
 <!-- > Give credit to everyone who inspired your codebase. -->
 
-I would like to thank Microverse for the opportunity to learn.An all my peers who assisted me.
+I would like to thank Mr Vitor - G - Madera for his effort.
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
