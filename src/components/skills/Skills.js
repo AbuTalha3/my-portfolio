@@ -23,7 +23,7 @@ const Skills = () => {
         <div className="skills-information" data-aos="fade-up">
           <div className="about-title">
             <FaLocationArrow className="arrow-icon" />
-            <span>Skills</span>
+            <span>Tech-Stack</span>
             <p className="microverse-date">These are my stacks</p>
           </div>
           <div className="skills-box">
