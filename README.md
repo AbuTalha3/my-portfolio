@@ -233,7 +233,7 @@ If you like this project you can contact me for any of your coding dreams.
 
 <!-- > Give credit to everyone who inspired your codebase. -->
 
-I would like to thank Mr Vitor - G - Madera for his effort.
+I would like to thank Mr Vitor - G - Madera for his effort. (copied and amended from)
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
