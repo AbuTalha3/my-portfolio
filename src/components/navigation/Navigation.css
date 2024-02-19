@@ -1,11 +1,11 @@
 nav {
   position: fixed;
   display: flex;
-  background-image: linear-gradient(to bottom, black, black, transparent);
+  background-image: linear-gradient(to bottom, rgb(204, 252, 61), rgb(3, 97, 23), transparent);
   justify-content: space-between;
   align-items: center;
   color: white;
-  height: 3rem;
+  height: 4rem;
   width: 100%;
   left: -5px;
   padding: 0 2rem;
@@ -56,7 +56,7 @@ nav {
 
 .navigation-list a {
   text-decoration: none;
-  color: white;
+  color: rgb(191, 67, 248);
   cursor: pointer;
 }
 
@@ -97,7 +97,7 @@ nav {
   nav {
     font-size: 120%;
     padding: 2rem 8rem;
-    background-image: linear-gradient(to bottom, black, black, black, transparent);
+    background-image: linear-gradient(to bottom, rgb(58, 6, 96), rgb(168, 163, 235), rgb(16, 3, 48), transparent);
   }
 
   .contact-info {
@@ -108,8 +108,9 @@ nav {
   }
 
   .contact-info a {
-    color: white;
+    color: rgb(3, 230, 45);
     text-decoration: none;
+    font-size: medium;
   }
 
   .hamburger-menu.on div:nth-child(1) {

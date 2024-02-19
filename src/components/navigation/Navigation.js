@@ -20,7 +20,7 @@ const Navigation = () => {
           </div>
           <div className="contact-info">
             <FaEnvelope />
-            <a href="mailto:vgm_rox@hotmail.com" target="_blank" rel="noreferrer">najeebakhun@gmail.com</a>
+            <a href="najeebakhun@gmail.com" target="_blank" rel="noreferrer">najeebakhun@gmail.com</a>
           </div>
         </div>
 

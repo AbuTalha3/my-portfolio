@@ -1,7 +1,7 @@
 import './Microverse.css';
 import { FaLocationArrow } from "react-icons/fa";
 import microverseLogo from '../../assets/images/microverseLogo.png'
-import hand from '../../assets/images/hand.png'
+// import hand from '../../assets/images/hand.png'
 import vscode1 from '../../assets/images/vscode1.png'
 
 const Microverse = () => {
@@ -18,7 +18,7 @@ const Microverse = () => {
           <p className="microverse-description">Built 50+ projects ranging from simple projects to complex full-stack applications.</p>
         </div>
         <img className="vscode1" src={vscode1} alt="vscode1" />
-        <img className="hand" src={hand} alt="hand" />
+        {/* <img className="hand" src={hand} alt="hand" /> */}
         <img className="microverse-logo" src={microverseLogo} alt="microverse-logo" />
       </section>
     );
