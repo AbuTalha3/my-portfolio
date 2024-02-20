@@ -16,7 +16,9 @@ textarea {
   border: 1px solid #ccc;
   border-radius: 5px;
   box-sizing: border-box;
-  font-size: 16px;
+  font-size: 18px;
+  color: #007bff;
+  font-weight: bold;
 }
 
 /* Error message */
