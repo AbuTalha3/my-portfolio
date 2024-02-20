@@ -1,6 +1,6 @@
 .microverse-section-container {
   background-color: black;
-  background-image: linear-gradient(45deg, black, transparent), linear-gradient(transparent, black), linear-gradient(black, transparent), url(../../assets/images/phones2.png);
+  background-image: linear-gradient(45deg, black, transparent), linear-gradient(transparent, black), linear-gradient(black, transparent), url(../../assets/images/backgroundMobile4.jpg);
   background-size: cover;
   position: relative;
   color: white;
