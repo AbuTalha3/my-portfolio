@@ -14,7 +14,7 @@ const Contact = () => {
               <FaLocationArrow className="arrow-icon" />
               <span>GET IN TOUCH</span>
             </div>
-            <p>If you want to work together on a project or just have a chat, please don't hesitate to contact me via email.</p>
+            <p>If you want to work together on a project or just have a chat, please don't hesitate to contact me.</p>
             {/* <a class="email-link" href="mailto:najeebakhun@gmail.com" target="_blank" rel="noreferrer">SEND EMAIL</a>
             <div className="contact-info-phone">
             <FaPhone />
