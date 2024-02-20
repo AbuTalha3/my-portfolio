@@ -9,7 +9,7 @@ import Projects from './components/projects/Projects';
 import Contact from './components/contact/Contact';
 // import Testimonials from './components/testimonials/Testimonials';
 import { useEffect, useState } from 'react';
-import loadingGif from './assets/gifs/logoGif2.gif'
+// import loadingGif from './assets/gifs/logoGif2.gif'
 import "swiper/css/bundle";
 import AOS from 'aos';
 import 'aos/dist/aos.css'
@@ -41,9 +41,9 @@ function App() {
       </div>
       :
       <>
-        <div className="loading-page">
+        {/* <div className="loading-page">
           <img className="loading-gif" src={loadingGif} alt="loading-gif" />
-        </div>
+        </div> */}
 
         <div className="noise" />
       </>
