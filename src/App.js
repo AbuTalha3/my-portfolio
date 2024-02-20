@@ -7,7 +7,7 @@ import Skills from './components/skills/Skills';
 import Microverse from './components/microverse/Microverse';
 import Projects from './components/projects/Projects';
 import Contact from './components/contact/Contact';
-import Testimonials from './components/testimonials/Testimonials';
+// import Testimonials from './components/testimonials/Testimonials';
 import { useEffect, useState } from 'react';
 import loadingGif from './assets/gifs/logoGif2.gif'
 import "swiper/css/bundle";
@@ -33,7 +33,7 @@ function App() {
           <Projects />
           <Skills />
           <Microverse />
-          <Testimonials />
+          {/* <Testimonials /> */}
           <Contact />
         </main>
   

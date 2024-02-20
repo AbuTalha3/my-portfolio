@@ -1,0 +1,80 @@
+/* contactform.css */
+
+/* Form container */
+form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+/* Input fields */
+input[type='text'],
+input[type='email'],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 18px;
+  color: #007bff;
+  font-weight: bold;
+}
+
+/* Error message */
+#message2 {
+  color: red;
+  margin-bottom: 10px;
+}
+
+#message3 {
+  color: rgb(29, 249, 51);
+  margin-bottom: 10px;
+}
+
+/* Submit button */
+button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Divider line */
+.liner {
+  height: 1px;
+  background-color: #ccc;
+  margin: 20px 0;
+}
+
+/* Required field styling */
+input:required,
+textarea:required {
+  border-color: #ff6666; /* Red border for required fields */
+}
+
+/* Optional: Adjust the styles for the placeholder text */
+input::placeholder,
+textarea::placeholder {
+  color: #999;
+}
+
+/* Optional: Adjust the styles for the focus state of the input fields */
+input:focus,
+textarea:focus {
+  outline: none;
+  border-color: #007bff; /* Highlight border color on focus */
+}
+
+.cardio {
+  font-weight: bold;
+}
