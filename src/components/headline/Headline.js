@@ -44,7 +44,7 @@ const Headline = () => {
           <a href="https://medium.com/@najeebakhun" target="_blank" rel="noreferrer"><FaMedium />Articles</a>
           </div>
           <div className="contact-button">
-            <a href="https://docs.google.com/document/d/1bDRU0JXUAFllRZHqLc2hLjNaBWVExwyV3cEisV2YnO0/edit" target="_blank" rel="noreferrer">
+            <a href="https://docs.google.com/document/d/1K5LPxUIwTGImJyKnb32nPpCMjAAVLZRt_MsehN2kORc/edit?usp=sharing" target="_blank" rel="noreferrer">
             <FaPaperclip />
             Resume</a>
           </div>
