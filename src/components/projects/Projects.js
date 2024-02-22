@@ -57,7 +57,7 @@ const Projects = () => {
       subtitle: 'Rockets/Mission application - 2022',
       description: 'This project is a web application that consumes an SpaceX API. It provides commercial and scientific space travel services that allows users to book rockets and join selected space missions. Built with React/Redux (Redux ToolKit)',
       image: image3,
-      live: 'https://react-group-project-k1iu.vercel.app/',
+      live: 'https://spacetravelershubakhun.netlify.app/',
       github: 'https://github.com/AbuTalha3/react_group_project',
       skills: ['HTML', 'CSS', 'React', 'Redux'],
     },
