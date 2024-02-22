@@ -51,6 +51,7 @@ const Projects = () => {
     //   skills: ['HTML', 'CSS', 'React', 'Redux'],
     // },
     {
+     {
       id: 5,
       title: 'Space Traveler',
       subtitle: 'Rockets/Mission application - 2022',
@@ -59,6 +60,7 @@ const Projects = () => {
       live: 'https://react-group-project-k1iu.vercel.app/',
       github: 'https://github.com/AbuTalha3/react_group_project',
       skills: ['HTML', 'CSS', 'React', 'Redux'],
+    },
     },
     // {
     //   id: 6,
